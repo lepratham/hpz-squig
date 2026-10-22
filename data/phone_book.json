@@ -1,0 +1,165 @@
+
+[
+    {
+        "name": "7Hz", 
+        "phones": [
+            {"name": "Diablo", "file": "Diablo", "shopLink": "https://www.headphonezone.in/products/7hz-x-crinacle-diablo"},
+            {"name": "Divine", "file": "Divine", "shopLink": "https://www.headphonezone.in/products/7hz-x-crinacle-divine"},
+            {"name": "Legato", "file": "Legato", "shopLink": "https://www.headphonezone.in/products/7hz-legato"},
+            {"name": "Salnotes Zero", "file": "Salnotes Zero", "shopLink": "https://www.headphonezone.in/products/headphone-zone-x-7hz-salnotes-zero-ltd-ed"},
+            {"name": "Timeless II", "file": ["Timeless II Gold Nozzle"], "shopLink": "https://www.headphonezone.in/products/7hz-timeless-ii"}
+        ]
+    },
+    {
+        "name": "64 Audio",
+        "phones": [
+            {"name":"Solo", "file":"64 Audio Solo"},
+            {"name":"U12t", "file":"64 Audio U12t"},
+            {"name":"U18t", "file":"64 Audio U18t"},
+            {"name":"U4s", "file":"64 Audio U4s"},
+            {"name":"x Astell & Kern XIO", "file":"64 Audio x Astell _ Kern XIO"},
+            {"name":"Volur", "file":"64 Audio Volur"}
+        ]
+    },
+    {
+        "name":  "Activo",
+        "phones": [
+            {"name": "Scoop", "file": "Activo Scoop", "shopLink": "https://www.headphonezone.in/products/activo-scoop"}
+        ]
+    },
+    {
+        "name": "Aful",
+        "phones": [
+            {"name": "Cantor", "file": "Aful Cantor"},
+            {"name": "Dawn-X", "file": "Aful Dawn-X"},
+            {"name": "Explorer", "file":"Aful Explorer"},
+            {"name": "Miracle One", "file": "Aful Miracle One"},
+            {"name": "Performer 5+2", "file": "Aful Performer 7"},
+            {"name": "Performer 8s", "file": "Aful Performer 8s"}
+        ]
+    },
+    {
+        "name": "Astell & Kern",
+        "phones": [
+            {"name": "x Empire Ears Novus", "file": "Novus"}
+        ]
+    },
+    {
+        "name": "Binary Acoustics",
+        "phones": [
+            {"name": "1900", "file": "Binary Acoustics 1900"}
+        ]
+    },
+    {
+        "name": "Campfire",
+        "phones": [
+            {"name": "Alien Brain", "file": "Campfire Alien Brain", "shopLink": "https://www.headphonezone.in/products/campfire-audio-alien-brain"}
+        ]
+    },
+    {
+        "name": "ddHifi",
+        "phones": [
+            {"name": "x Headphone Zone Iris", "file": "Iris"},
+            {"name": "x Headphone Zone Skyfall", "file": "Skyfall"}
+        ]
+    },
+    {
+        "name": "Dita",
+        "phones": [
+            {"name": "Project M2", "file": "Project M2"}
+        ]
+    },
+    {
+        "name":   "Dunu",
+        "phones": [
+            {"name": "Titan X", "file": "Dunu Titan X", "shopLink": "https://www.headphonezone.in/products/dunu-titan-x"}
+        ] 
+    },
+    {
+        "name":   "Etymotic",
+        "phones": [
+            {
+                "name": "ER2SE",
+                "file": "Etymotic ER2SE",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "",
+                "shopLink": ""
+            }
+        ]
+    },
+    {
+        "name": "JCally",
+        "phones": [
+            {"name": "Space", "file": ["Space Type C", "Space 3.5mm"],"suffixes": ["Type C", "3.5mm"]}
+        ]
+    },
+    {
+        "name": "Juzear",
+        "phones": [
+            {"name": "Light Shuttle", "file": "Juzear Light Shuttle"}
+        ]
+    },
+    {
+        "name": "Meze",
+        "phones": [
+            {"name": "Rai Solo", "file": "Rai Solo"}
+        ]
+    },
+    {
+        "name": "Moondrop",
+        "phones": [
+            {"name": "Blessing 3", "file": ["Blessing 3", "Blessing 3 (10 Ohm)"],"suffixes": ["", "(10 Ohm)"]}
+        ]
+    },
+    {
+        "name": "Noble Audio",
+        "phones": [
+            {"name": "Vanguard", "file": "Noble Audio Vanguard"},
+            {"name": "Van Gogh", "file": "Noble Audio Van Gogh"}
+        ]
+    },
+    {
+        "name": "Sennheiser",
+        "phones": [
+            {"name": "IE300", "file": "Sennheiser IE 300"},
+            {"name": "IE600", "file": "Sennheiser IE 600"},
+            {"name": "IE900", "file": "Sennheiser IE 900"}
+        ]
+    },
+    {
+        "name":   "Truthear",
+        "phones": [
+            {
+                "name": "Nova",
+                "file": "Truthear Nova",
+                "reviewScore": "",
+                "reviewLink": "",
+                "price": "₹ 15,999",
+                "shopLink": "https://www.headphonezone.in/products/truthear-nova"
+            }
+        ]
+    },
+    {
+        "name": "Tangzu",
+        "phones": [
+            {"name": "Tian Peng", "file": "Tangzu Tian Peng"},
+            {"name": "Wan'er S.G", "file": "Tangzu Waner S.G"},
+            {"name": "Wan'er S.G 2", "file": "Tangzu Waner S.G 2"},
+            {"name": "Wukong Monkey King", "file": "Tangzu Wukong Monkey"},
+            {"name": "XuanWu Gate", "file": "Tangzu XuanWu Gate"},
+            {"name": "Zetian Wu Legend", "file": "Tangzu Zetian Wu Legend"}
+        ]
+    },
+    {
+        "name":   "ThieAudio",
+        "phones": [
+            {
+                "name": "Monarch MKIV",
+                "file": ["ThieAudio - Monarch MKIV", "ThieAudio - Monarch MKIV (Rumble)"],
+                "suffixes": ["", "Rumble"],
+                "shopLink": "https://www.headphonezone.in/products/thieaudio-monarch-mkiv"
+            }
+        ]
+    }
+]
