@@ -100,6 +100,12 @@
             {"name": "Light Shuttle", "file": "Juzear Light Shuttle"}
         ]
     },
+        {
+        "name": "Kotori Audio",
+        "phones": [
+            {"name": "Zephyr", "file": "Kotori Audio Zephyr"}
+        ]
+    },
     {
         "name": "Letshuoer",
         "phones": [
