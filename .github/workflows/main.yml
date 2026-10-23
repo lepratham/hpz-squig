@@ -13,4 +13,4 @@ jobs:
       with:
         server: sftp.squig.link
         username: headphonezone
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.password }}
