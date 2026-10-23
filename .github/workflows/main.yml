@@ -1,16 +1,14 @@
-on: push
-name: 🚀 Deploy website on push
-jobs:
-  web-deploy:
-    name: 🎉 Deploy
-    runs-on: ubuntu-latest
-    steps:
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v6
-    
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.4.0
-      with:
-        server: sftp.squig.link
-        username: headphonezone
-        password: ${{ secrets.password }}
+- name: Checkout
+  uses: actions/checkout@v6
+- name: SFTP upload
+  uses: Dylan700/sftp-upload-action@latest
+  with:
+    server: sftp.squig.link
+    username: headphonezone
+    password: ${{secrets.password}}
+    port: 22
+    uploads: |
+      ./ => ./www/public_html/
+    ignore: |
+      *.git
+      */**/*git*
