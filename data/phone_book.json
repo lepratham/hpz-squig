@@ -187,5 +187,12 @@
                 "shopLink": "https://www.headphonezone.in/products/thieaudio-monarch-mkiv"
             }
         ]
-    }
+    }, 
+        {
+        "name": "Vision Ears",
+        "phones": [
+            {"name": "EXT MK II", "file": "Vision Ears EXT MK II"},
+            {"name": "Go Live", "file": "Vision Ears Go Live"}
+        ]
+    },
 ]
