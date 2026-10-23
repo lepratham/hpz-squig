@@ -101,6 +101,12 @@
         ]
     },
     {
+        "name": "Letshuoer",
+        "phones": [
+            {"name": "Cadenza 4", "file": "Letshuoer Cadenza 4"}
+        ]
+    },
+    {
         "name": "Meze",
         "phones": [
             {"name": "Rai Solo", "file": "Rai Solo"}
