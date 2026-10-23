@@ -128,6 +128,7 @@
     {
         "name": "Sennheiser",
         "phones": [
+            {"name": "IE200", "file": "Sennheiser IE 200"},
             {"name": "IE300", "file": "Sennheiser IE 300"},
             {"name": "IE600", "file": "Sennheiser IE 600"},
             {"name": "IE900", "file": "Sennheiser IE 900"}
