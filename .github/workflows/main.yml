@@ -18,7 +18,7 @@ jobs:
           server: sftp.squig.link
           username: headphonezone
           password: ${{ secrets.PASSWORD }}
-          port: 22
+          port: 2022
           uploads: |
             ./ => ./www/public_html/
           ignore: |
