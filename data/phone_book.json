@@ -103,7 +103,8 @@
     {
         "name": "Letshuoer",
         "phones": [
-            {"name": "Cadenza 4", "file": "Letshuoer Cadenza 4"}
+            {"name": "Cadenza 4", "file": "Letshuoer Cadenza 4"},
+            {"name": "S12 Pro", "file": "Letshuoer S12 Pro"}
         ]
     },
     {
