@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.4.0
       with:
-        server: ftp.samkirkland.com
-        username: myFtpUserName
+        server: sftp.squig.link
+        username: headphonezone
         password: ${{ secrets.ftp_password }}
