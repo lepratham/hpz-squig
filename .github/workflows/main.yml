@@ -1,14 +1,27 @@
-- name: Checkout
-  uses: actions/checkout@v6
-- name: SFTP upload
-  uses: Dylan700/sftp-upload-action@latest
-  with:
-    server: sftp.squig.link
-    username: headphonezone
-    password: ${{secrets.password}}
-    port: 22
-    uploads: |
-      ./ => ./www/public_html/
-    ignore: |
-      *.git
-      */**/*git*
+name: SFTP Deployment
+
+on:
+  push:
+    branches:
+      - main # Change this to your target branch (e.g., master, dev) if needed
+
+jobs:
+  sftpdeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: SFTP upload
+        uses: Dylan700/sftp-upload-action@latest
+        with:
+          server: sftp.squig.link
+          username: headphonezone
+          password: ${{ secrets.password }}
+          port: 22
+          uploads: |
+            ./ => ./www/public_html/
+          ignore: |
+            *.git
+            */**/*git*
+
