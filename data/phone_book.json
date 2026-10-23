@@ -1,16 +1,6 @@
 
 [
     {
-        "name": "7Hz", 
-        "phones": [
-            {"name": "Diablo", "file": "Diablo", "shopLink": "https://www.headphonezone.in/products/7hz-x-crinacle-diablo"},
-            {"name": "Divine", "file": "Divine", "shopLink": "https://www.headphonezone.in/products/7hz-x-crinacle-divine"},
-            {"name": "Legato", "file": "Legato", "shopLink": "https://www.headphonezone.in/products/7hz-legato"},
-            {"name": "Salnotes Zero", "file": "Salnotes Zero", "shopLink": "https://www.headphonezone.in/products/headphone-zone-x-7hz-salnotes-zero-ltd-ed"},
-            {"name": "Timeless II", "file": ["Timeless II Gold Nozzle"], "shopLink": "https://www.headphonezone.in/products/7hz-timeless-ii"}
-        ]
-    },
-    {
         "name": "64 Audio",
         "phones": [
             {"name":"Solo", "file":"64 Audio Solo"},
@@ -19,6 +9,16 @@
             {"name":"U4s", "file":"64 Audio U4s"},
             {"name":"x Astell & Kern XIO", "file":"64 Audio x Astell _ Kern XIO"},
             {"name":"Volur", "file":"64 Audio Volur"}
+        ]
+    },
+    {
+        "name": "7Hz", 
+        "phones": [
+            {"name": "Diablo", "file": "Diablo", "shopLink": "https://www.headphonezone.in/products/7hz-x-crinacle-diablo"},
+            {"name": "Divine", "file": "Divine", "shopLink": "https://www.headphonezone.in/products/7hz-x-crinacle-divine"},
+            {"name": "Legato", "file": "Legato", "shopLink": "https://www.headphonezone.in/products/7hz-legato"},
+            {"name": "Salnotes Zero", "file": "Salnotes Zero", "shopLink": "https://www.headphonezone.in/products/headphone-zone-x-7hz-salnotes-zero-ltd-ed"},
+            {"name": "Timeless II", "file": ["Timeless II Gold Nozzle"], "shopLink": "https://www.headphonezone.in/products/7hz-timeless-ii"}
         ]
     },
     {
