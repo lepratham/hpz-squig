@@ -120,6 +120,12 @@
         ]
     },
     {
+        "name": "ooopusX",
+        "phones": [
+            {"name": "Op.22", "file": ["Op.22", "Op.22 (Bass mode)"], "suffixes": ["", "(Bass mode)"]}
+        ]
+    },
+    {
         "name": "Sennheiser",
         "phones": [
             {"name": "IE300", "file": "Sennheiser IE 300"},
