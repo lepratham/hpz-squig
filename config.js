@@ -1,8 +1,8 @@
 // Configuration options
 const init_phones = [
         "Harman IE 2019 Target",
-        "∆ 5128DF for 711 - 10dB Tilt Target",
-        "Dunu Titan X"
+        "∆ JM-1 for 711 - 10dB Tilt Target",
+        "Aful Miracle One"
       ],                                            // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       data_format = "REW",                          // Accepts "AudioTools," "REW," or "other"
@@ -31,7 +31,7 @@ const init_phones = [
       expandable = false,                           // Enables button to expand iframe over the top of the parent page
       expandableOnly = false,                       // Prevents iframe interactions unless the user has expanded it. Accepts "true" or "false" OR a pixel value; if pixel value, that is used as the maximum width at which expandableOnly is used
       headerHeight = "0px",                         // Optional. If expandable=true, determines how much space to leave for the parent page header
-      darkModeButton = false,                        // Adds a "Dark Mode" button the main toolbar to let users set preference
+      darkModeButton = true,                  // Adds a "Dark Mode" button the main toolbar to let users set preference
       targetDashed = true,                          // If true, makes target curves dashed lines
       targetColorCustom = false,                    // If false, targets appear as a random gray value. Can replace with a fixed color value to make all targets the specified color, e.g. "black"
       targetRestoreLastUsed = true,			      	// Restore user's last-used target settings on load
