@@ -24,7 +24,8 @@
     {
         "name":  "Activo",
         "phones": [
-            {"name": "Scoop", "file": "Activo Scoop", "shopLink": "https://www.headphonezone.in/products/activo-scoop"}
+            {"name": "Scoop", "file": "Activo Scoop", "shopLink": "https://www.headphonezone.in/products/activo-scoop"}, 
+            {"name": "Volcano", "file": "Activo Volcano"}
         ]
     },
     {
@@ -47,7 +48,14 @@
     {
         "name": "Binary Acoustics",
         "phones": [
-            {"name": "1900", "file": "Binary Acoustics 1900"}
+            {"name": "1900", "file": "Binary Acoustics 1900"}, 
+            {"name": "EP321", "file": "Binary Acoustics EP321"}
+        ]
+    },
+    {
+        "name": "Blon",
+        "phones": [
+            {"name": "BL03 II", "file": "Blon BL03 II"}
         ]
     },
     {
@@ -116,7 +124,8 @@
         "name": "Letshuoer",
         "phones": [
             {"name": "Cadenza 4", "file": "Letshuoer Cadenza 4"},
-            {"name": "S12 Pro", "file": "Letshuoer S12 Pro"}
+            {"name": "S12 Pro", "file": "Letshuoer S12 Pro"},
+            {"name": "S12 Ultra", "file": "Letshuoer S12 Ultra"}
         ]
     },
     {
@@ -134,6 +143,7 @@
     {
         "name": "Noble Audio",
         "phones": [
+            {"name": "Iris", "file": "Noble Audio Iris"},
             {"name": "Vanguard", "file": "Noble Audio Vanguard"},
             {"name": "Van Gogh", "file": "Noble Audio Van Gogh"}
         ]
@@ -141,7 +151,8 @@
     {
         "name": "ooopusX",
         "phones": [
-            {"name": "Op.22", "file": ["Op.22", "Op.22 (Bass mode)"], "suffixes": ["", "(Bass mode)"]}
+            {"name": "Op.22", "file": ["Op.22", "Op.22 (Bass mode)"], "suffixes": ["", "(Bass mode)"]},
+            {"name": "Op.24", "file": ["Op.24 (Dial Down)", "Op.24 (Dial Up)"], "suffixes":["(Dial Down)", "(Dial Up)"]}
         ]
     },
     {
