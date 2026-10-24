@@ -61,13 +61,21 @@
     {
         "name": "Campfire Audio",
         "phones": [
-            {"name": "Alien Brain", "file": "Campfire Alien Brain", "shopLink": "https://www.headphonezone.in/products/campfire-audio-alien-brain"}
+            {"name": "Alien Brain", "file": "Campfire Alien Brain", "shopLink": "https://www.headphonezone.in/products/campfire-audio-alien-brain"},
+            {"name": "Andromeda Emerald", "file": "Campfire Andromeda Emerald"},
+            {"name": "Astrolith", "file": "Campfire Astrolith"},
+            {"name": "Axion", "file": "Campfire Axion"},
+            {"name": "Iris", "file": "Campfire Iris"},
+            {"name": "Ponderosa", "file": "Campfire Ponderosa"},
+            {"name": "Trifecta", "file": "Campfire Trifecta"}
         ]
     },
         {
         "name": "Crinear",
         "phones": [
-            {"name": "Nightfall", "file": "Crinear Nightfall"}
+            {"name": "Daybreak", "file": "Crinear Daybreak"},
+            {"name": "Nightfall", "file": "Crinear Nightfall"},
+            {"name": "Reference", "file": "Crinear Reference"}
         ]
     },
     {
