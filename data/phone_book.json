@@ -152,6 +152,7 @@
         "name": "Noble Audio",
         "phones": [
             {"name": "Iris", "file": "Noble Audio Iris"},
+            {"name": "Shogun", "file": "Noble Audio Shogun"},
             {"name": "Vanguard", "file": "Noble Audio Vanguard"},
             {"name": "Van Gogh", "file": "Noble Audio Van Gogh"}
         ]
