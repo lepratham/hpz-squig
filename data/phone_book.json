@@ -18,6 +18,8 @@
             {"name": "Divine", "file": "Divine", "shopLink": "https://www.headphonezone.in/products/7hz-x-crinacle-divine"},
             {"name": "Legato", "file": "Legato", "shopLink": "https://www.headphonezone.in/products/7hz-legato"},
             {"name": "Salnotes Zero", "file": "Salnotes Zero", "shopLink": "https://www.headphonezone.in/products/headphone-zone-x-7hz-salnotes-zero-ltd-ed"},
+            {"name": "x Crinacle Zero:2", "file": "Zero_2"},
+            {"name": "x Crinacle Zero:3", "file": "Zero_3"},
             {"name": "Timeless II", "file": ["Timeless II Gold Nozzle"], "shopLink": "https://www.headphonezone.in/products/7hz-timeless-ii"}
         ]
     },
@@ -119,6 +121,7 @@
     {
         "name": "Juzear",
         "phones": [
+            {"name": "x Headphone Zone Defiant", "file": "Defiant"},
             {"name": "Light Shuttle", "file": "Juzear Light Shuttle"}
         ]
     },
@@ -131,6 +134,7 @@
     {
         "name": "Letshuoer",
         "phones": [
+            {"name": "Astralis", "file": "Letshuoer Astralis"},
             {"name": "Cadenza 4", "file": "Letshuoer Cadenza 4"},
             {"name": "S12 Pro", "file": "Letshuoer S12 Pro"},
             {"name": "S12 Ultra", "file": "Letshuoer S12 Ultra"}
@@ -183,7 +187,8 @@
                 "reviewLink": "",
                 "price": "₹ 15,999",
                 "shopLink": "https://www.headphonezone.in/products/truthear-nova"
-            }
+            },
+            {"name": "Hexa", "file": "Hexa"}
         ]
     },
     {
@@ -192,6 +197,7 @@
             {"name": "Tian Peng", "file": "Tangzu Tian Peng"},
             {"name": "Wan'er S.G", "file": "Tangzu Waner S.G"},
             {"name": "Wan'er S.G 2", "file": "Tangzu Waner S.G 2"},
+            {"name": "Wan'er S.G 2 Red Lion", "file": "Red Lion"},
             {"name": "Wukong Monkey King", "file": "Tangzu Wukong Monkey"},
             {"name": "XuanWu Gate", "file": "Tangzu XuanWu Gate"},
             {"name": "Zetian Wu Legend", "file": "Tangzu Zetian Wu Legend"}
